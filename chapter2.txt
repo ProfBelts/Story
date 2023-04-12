@@ -1,1 +1,2 @@
-This is the chapter 2 of branch.
+Basically, you do not want to create some mistakes/errors in the master branch because that is the final product that you are going to pass
+into your readers.

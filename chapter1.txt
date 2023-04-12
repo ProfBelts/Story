@@ -1,2 +1,2 @@
-This is a text from another branch.
+This is the master branch. It is the final product. 
 
