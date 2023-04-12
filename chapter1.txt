@@ -1,2 +1,1 @@
-This is the master branch. It is the final product. 
-
+This is a text came from a new branch. I decided that I like this text and I want to merge it to the master branch.
